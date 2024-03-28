@@ -6,7 +6,7 @@
 - 并合并其音频与视频
 
 ## 注意
-- 此工具及其依赖[FFmpeg](https://ffmpeg.org)，假如没有此工具，请前往[官方网站](https://ffmpeg.org/download.html)下载
+- 此工具极其依赖[FFmpeg](https://ffmpeg.org)，假如没有此工具，请前往[官方网站](https://ffmpeg.org/download.html)下载
 - 安装后请确保环境变量的Path有FFmpeg
 - 或者将FFmpeg的二进制文件放置与此工具相同的文件夹内
 
